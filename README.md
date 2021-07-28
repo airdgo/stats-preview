@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Live Site](airdgo-stats-preview-main.netlify.app)
+- [Live Site](https://airdgo-stats-preview-main.netlify.app)
 
 ## My process
 
