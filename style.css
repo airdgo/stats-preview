@@ -42,7 +42,7 @@ body {
     background-color: var(--clr-primary-bg);
 }
 
-.container {
+main {
     background-color: var(--clr-primary-card);
 }
 
@@ -113,7 +113,7 @@ body {
     align-items: center;
 }
 
-.container {
+main {
     display: flex;
     flex-direction: row-reverse;
     width: 70rem;
@@ -168,7 +168,7 @@ li {
         margin: 10em 0;
     }
 
-    .container {
+    main {
         flex-direction: column;
         width: 35rem;
         margin: 0 3em;
