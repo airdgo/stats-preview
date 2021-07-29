@@ -120,7 +120,7 @@ main {
     border-radius: .5rem;
 }
 
-figure {
+section {
     margin: 0;
     padding: 0;
     background-color: var(--clr-primary-accent);  
@@ -178,7 +178,7 @@ li {
         width: 100%;
     }
 
-    figure {
+    section {
         border-radius: .5rem .5rem 0 0;
     }
 
